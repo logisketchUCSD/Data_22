@@ -1,0 +1,226 @@
+Gate AND, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 5
+
+Gate AND, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 5
+
+Gate NAND, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 7
+StrokeRemove: 1
+
+Gate NAND, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 6
+
+Gate OR, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 7
+StrokeRemove: 2
+
+Gate OR, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 5
+
+Gate NOR, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 6
+
+Gate NOR, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 8
+StrokeRemove: 2
+
+Gate XOR, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 6
+
+Gate XOR, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 6
+
+Gate XNOR, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 9
+StrokeRemove: 3
+
+Gate XNOR, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 8
+StrokeRemove: 1
+
+Gate NOT, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 8
+StrokeRemove: 1
+
+Gate NOT, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 9
+StrokeRemove: 2
+
+0) EQ 1, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 53
+StrokeRemove: 12
+
+0) EQ 1, Iter 1, Trial 2
+---------------------------------------------------
+ApplyLabel: 6
+StrokeRemove: 2
+StrokeAdd: 1
+
+0) EQ 1, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 38
+StrokeRemove: 1
+
+0) EQ 1, Iter 2, Trial 2
+---------------------------------------------------
+ApplyLabel: 6
+StrokeRemove: 2
+StrokeAdd: 3
+
+0) EQ 1, Iter 2, Trial 3
+---------------------------------------------------
+ApplyLabel: 1
+
+1) EQ 2, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 46
+StrokeRemove: 10
+
+1) EQ 2, Iter 1, Trial 2
+---------------------------------------------------
+ApplyLabel: 5
+
+1) EQ 2, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 43
+StrokeRemove: 9
+
+1) EQ 2, Iter 2, Trial 2
+---------------------------------------------------
+ApplyLabel: 3
+
+2) EQ 3, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 37
+StrokeRemove: 3
+
+2) EQ 3, Iter 1, Trial 2
+---------------------------------------------------
+ApplyLabel: 3
+
+2) EQ 3, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 40
+StrokeRemove: 6
+
+2) EQ 3, Iter 2, Trial 2
+---------------------------------------------------
+ApplyLabel: 6
+
+3) EQ 4, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 40
+StrokeRemove: 2
+
+3) EQ 4, Iter 1, Trial 2
+---------------------------------------------------
+ApplyLabel: 6
+
+3) EQ 4, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 36
+StrokeRemove: 1
+
+3) EQ 4, Iter 2, Trial 2
+---------------------------------------------------
+StrokeAdd: 1
+StrokeRemove: 1
+ApplyLabel: 8
+
+4) EQ 5, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 43
+StrokeRemove: 10
+
+4) EQ 5, Iter 1, Trial 2
+---------------------------------------------------
+ApplyLabel: 7
+
+4) EQ 5, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 34
+
+4) EQ 5, Iter 2, Trial 2
+---------------------------------------------------
+ApplyLabel: 6
+
+5) EQ 6, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 46
+StrokeRemove: 8
+
+5) EQ 6, Iter 1, Trial 2
+---------------------------------------------------
+StrokeRemove: 1
+StrokeAdd: 1
+ApplyLabel: 9
+
+5) EQ 6, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 48
+StrokeRemove: 6
+
+5) EQ 6, Iter 2, Trial 2
+---------------------------------------------------
+ApplyLabel: 8
+
+6) EQ 7, Iter 1, Trial 0
+---------------------------------------------------
+StrokeAdd: 39
+
+6) EQ 7, Iter 1, Trial 2
+---------------------------------------------------
+ApplyLabel: 3
+
+6) EQ 7, Iter 1, Trial 3
+---------------------------------------------------
+StrokeAdd: 1
+StrokeRemove: 1
+ApplyLabel: 1
+
+6) EQ 7, Iter 1, Trial 4
+---------------------------------------------------
+ApplyLabel: 2
+
+6) EQ 7, Iter 1, Trial 5
+---------------------------------------------------
+ApplyLabel: 1
+
+6) EQ 7, Iter 2, Trial 0
+---------------------------------------------------
+StrokeAdd: 17
+StrokeRemove: 4
+
+6) EQ 7, Iter 2, Trial 2
+---------------------------------------------------
+StrokeAdd: 40
+StrokeRemove: 14
+
+6) EQ 7, Iter 2, Trial 3
+---------------------------------------------------
+ApplyLabel: 4
+
+6) EQ 7, Iter 2, Trial 4
+---------------------------------------------------
+ApplyLabel: 1
+
+6) EQ 7, Iter 2, Trial 5
+---------------------------------------------------
+ApplyLabel: 2
+
